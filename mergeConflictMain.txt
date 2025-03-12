@@ -1,2 +1,6 @@
 This is merge conflict file in main
+<<<<<<< HEAD
 new addition
+=======
+Hello from feature branch again
+>>>>>>> 3723a18853ef0cf3760dedf899e65fc0572a22d1
