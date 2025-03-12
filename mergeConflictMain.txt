@@ -1,1 +1,2 @@
 This is merge conflict file in main
+new addition
